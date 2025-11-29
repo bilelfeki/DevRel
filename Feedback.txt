@@ -1,0 +1,15 @@
+Developer Feedback Form
+
+1. What problem are you currently facing?
+
+
+2. In which part of the product or API does it occur?
+
+
+3. How does this issue impact your workflow?
+
+
+4. Have you tried any solution? If yes, which one?
+
+
+5. What improvement or support would help you solve it?
