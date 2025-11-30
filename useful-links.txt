@@ -1,0 +1,18 @@
+convert mp4 to mp3 
+local convertor
+
+record screen: 
+https://screen-recorder.com
+
+
+teleprompter: 
+https://telepromptero.com/
+
+english reader: 
+https://www.naturalreaders.com/online/
+
+
+
+enhance voice with ai: 
+https://voice.ai/tools/audio-enhancer
+

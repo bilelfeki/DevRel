@@ -1,0 +1,44 @@
+I will provide you with a document. Your task is to transform it into a YouTube video script.
+Follow these rules when creating the script:
+
+1. Structure the script as follows:
+
+Hook (3–6 sentences): Grab attention fast with surprising facts, questions, or a bold promise.
+
+Introduction: Explain what the video will cover and why it matters.
+
+Main Content (Body): Break the document into clear sections or chapters using engaging storytelling, analogies, examples, and explanations.
+
+Call to Action: Encourage viewers to like, comment, and subscribe, and offer next steps or recommendations.
+
+Outro: Short and memorable ending line.
+
+2. Tone & Style:
+
+Conversational, engaging, easy to understand.
+
+Avoid unnecessary complexity—explain ideas simply.
+
+Write for listener retention, not for reading.
+
+3. Script Requirements:
+
+Use spoken-language sentences (natural and smooth).
+
+Add scene suggestions and B-roll ideas in brackets [like this].
+
+Include pacing cues like pauses (…) when appropriate.
+
+Make it dynamic—no monotone academic talk.
+
+4. Output Format:
+
+Title for the video
+
+Short description
+
+Full script ready for voiceover
+
+Key highlights or timestamps
+
+When ready, ask me to paste the document, and then convert it using the format above.
